@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud", "Crud\Crud.csproj", "{1B894550-9975-4583-8F03-B8E7083BBAEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudWebService", "CrudWebService\CrudWebService.csproj", "{77D6DE5D-6A5E-43C6-8E1E-E04566A56E74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudWcf", "CrudWcf\CrudWcf.csproj", "{CB1CB864-6122-4278-A19B-1848D803B9A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B894550-9975-4583-8F03-B8E7083BBAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B894550-9975-4583-8F03-B8E7083BBAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B894550-9975-4583-8F03-B8E7083BBAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B894550-9975-4583-8F03-B8E7083BBAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D6DE5D-6A5E-43C6-8E1E-E04566A56E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D6DE5D-6A5E-43C6-8E1E-E04566A56E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D6DE5D-6A5E-43C6-8E1E-E04566A56E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D6DE5D-6A5E-43C6-8E1E-E04566A56E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB1CB864-6122-4278-A19B-1848D803B9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB1CB864-6122-4278-A19B-1848D803B9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB1CB864-6122-4278-A19B-1848D803B9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB1CB864-6122-4278-A19B-1848D803B9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4045695E-1D10-4680-9609-669C6611B501}
+	EndGlobalSection
+EndGlobal

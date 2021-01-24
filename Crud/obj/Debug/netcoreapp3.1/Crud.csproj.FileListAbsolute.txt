@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\CRUD\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.exe
+C:\Users\LENOVO\source\CRUD\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.deps.json
+C:\Users\LENOVO\source\CRUD\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.runtimeconfig.json
+C:\Users\LENOVO\source\CRUD\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.runtimeconfig.dev.json
+C:\Users\LENOVO\source\CRUD\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.dll
+C:\Users\LENOVO\source\CRUD\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.pdb
+C:\Users\LENOVO\source\CRUD\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\CRUD\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\CRUD\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.AssemblyInfo.cs
+C:\Users\LENOVO\source\CRUD\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\CRUD\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.dll
+C:\Users\LENOVO\source\CRUD\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.pdb
+C:\Users\LENOVO\source\CRUD\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.genruntimeconfig.cache

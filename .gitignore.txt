@@ -1,0 +1,7 @@
+packages
+Crud/bin
+Crud/obj
+CrudWcf/bin
+CrudWcf/obj
+CrudWebService/bin
+CrudWebService/obj
